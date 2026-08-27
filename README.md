@@ -23,7 +23,7 @@ https://spiffy-kringle-c5f6a6.netlify.app/
 
 Connect with the PG DevHub community, meet other developers, share projects, and collaborate.
 
-**Discord:** YOUR_DISCORD_INVITE_HERE
+**Discord:** https://discord.gg/GxKJYA8Cue
 
 ## 🛠️ Projects
 
